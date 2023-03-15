@@ -1,0 +1,2 @@
+# news-summ
+summarization software 
